@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alakh11/github-packages/issues"
   },
+  "publishConfig": {
+  "@alakh11:registry": "https://npm.pkg.github.com"
+},
   "homepage": "https://github.com/Alakh11/github-packages#readme"
 }
