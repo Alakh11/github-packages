@@ -1,0 +1,19 @@
+{
+  "name": "@alakh11/github-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alakh11/github-packages.git"
+  },
+  "author": "Alakh Chaturvedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alakh11/github-packages/issues"
+  },
+  "homepage": "https://github.com/Alakh11/github-packages#readme"
+}
